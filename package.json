@@ -10,7 +10,8 @@
   "module": "dist/is-branch-checkout.esm.js",
   "typings": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "bin"
   ],
   "scripts": {
     "start": "tsdx watch",
